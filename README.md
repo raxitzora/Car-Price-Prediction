@@ -6,5 +6,5 @@ cd car-price-prediction
 pip install -r requirements.txt
 
 3)Run the Streamlit app:
-streamlit run app.py
+streamlit run predict.py
 
